@@ -1,0 +1,17 @@
+<svg
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  x="0px"
+  y="0px"
+  viewBox="0 0 10.279 9.187"
+  style="enable-background:new 0 0 10.279 9.187;"
+  xml:space="preserve"
+>
+<symbol id="drop-arrow"  viewBox="0 0 10.279 9.187">
+  <polygon stroke="currentColor"
+    style="fill-rule:evenodd;clip-rule:evenodd;stroke-width:2.126;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;"
+    points="5.139,8.124 7.178,4.594 9.216,1.063 5.139,1.063 1.063,1.063 3.101,4.594 5.139,8.124"
+  ></polygon>
+</symbol>
+</svg>

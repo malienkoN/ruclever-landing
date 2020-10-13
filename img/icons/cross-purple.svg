@@ -1,0 +1,18 @@
+<svg
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  x="0px"
+  y="0px"
+  viewBox="0 0 19.348 19.348"
+  style="enable-background:new 0 0 19.348 19.348;"
+  xml:space="preserve"
+>
+<symbol id="cross">
+  <path
+          stroke="currentColor"
+    style="fill:none;stroke-width:2.8347;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;"
+    d="M1.417,1.417L17.93,17.93 M17.93,1.417L1.417,17.93"
+  />
+</symbol>
+</svg>

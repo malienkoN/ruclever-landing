@@ -1,0 +1,1 @@
+document.querySelectorAll("[data-class-toggle]").forEach(t=>{t.addEventListener("click",()=>{const[e,o]=t.getAttribute("data-class-toggle").split(",").map(t=>t.trim());document.querySelector(e).classList.toggle(o)})}),tns({container:"#review-slider",items:1,slideBy:"page",controls:!1,navPosition:"bottom",autoplay:!0,autoplayTimeout:5e3,autoplayButton:!1,autoplayButtonOutput:!1});
